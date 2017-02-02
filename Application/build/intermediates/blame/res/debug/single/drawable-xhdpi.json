@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/sherriff/Dropbox/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_settings.png",
+        "source": "/Users/sherriff/Dropbox/AndroidStudioProjects/ActionBarCompat-Basic/Application/src/main/res/drawable-xhdpi/ic_action_settings.png"
+    },
+    {
+        "merged": "/Users/sherriff/Dropbox/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_location.png",
+        "source": "/Users/sherriff/Dropbox/AndroidStudioProjects/ActionBarCompat-Basic/Application/src/main/res/drawable-xhdpi/ic_action_location.png"
+    },
+    {
+        "merged": "/Users/sherriff/Dropbox/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/Users/sherriff/Dropbox/AndroidStudioProjects/ActionBarCompat-Basic/Application/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sherriff/Dropbox/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_refresh.png",
+        "source": "/Users/sherriff/Dropbox/AndroidStudioProjects/ActionBarCompat-Basic/Application/src/main/res/drawable-xhdpi/ic_action_refresh.png"
+    }
+]
