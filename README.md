@@ -35,8 +35,15 @@ You are going to add functionality to the three menu buttons.
 - The third menu button should open a new Activity that you create.
 
 For all of these, feel free to add fields/methods as you see fit to accomplish the tasks.
+
 The first two tasks are relatively simple, while the third is much more open-ended and
-requires you to create more files.
+requires you to create more files.  
+
+After you successfully complete the first two tasks, create a new Activity screen that will be launched
+by the third button that will:
+
+- Allow a user to set a username, first name, and last name;
+- When you return to the original Activity, display this information in a SnackBar.
 
 When you are finished with this activity, zip up your project and submit it to the assignment
 in Collab.
