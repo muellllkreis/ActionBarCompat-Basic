@@ -2,35 +2,15 @@
 Android ActionBarCompat-Basic Sample
 ===================================
 
-This sample shows you how to use ActionBarCompat to create a basic Activity
-which displays action items. It covers inflating items from a menu resource,
-as well as adding an item in code.
+This in class activity is based on one of the Google offical code samples found
+at https://github.com/googlesamples/android-ActionBarCompat-Basic.
 
 Introduction
 ------------
 
-Android 3.0 introduced the “action bar” control, a toolbar that is expected
-to be present in most types of applications. This control identifies the user
-location, and provides user actions and navigation modes.
-Using the action bar offers your users a familiar interface across applications
-that the system gracefully adapts for different screen configurations.
-
-Instantiating an action bar can be done by using the [ActionBar][1] API provided
-in API 11 or above. Support for older devices is provided by the
-[support library’s ActionBar][2] implementation, compatible back to API 7.
-This sample demonstrates using the support library APIs.
-
-Using an ActionBar with the support library requires the following steps:
-
-1. Create your activity by extending ActionBarActivity.
-2. Use (or extend) one of the Theme.AppCompat themes for your activity.
-
-Once this is done, action items will be created for any options menu items that
-would otherwise be created during when `[onCreateOptionsMenu()][3]` is called.
-
-[1]: http://developer.android.com/reference/android/app/ActionBar.html
-[2]: http://developer.android.com/reference/android/support/v7/app/ActionBar.html
-[3]: http://developer.android.com/reference/android/app/Activity.html#onCreateOptionsMenu(android.view.Menu)
+The goal of this activity is to add some basic menu bar funcitonality to the sample
+code.  You may need to install some additional Android components to get the system 
+to build.
 
 Pre-requisites
 --------------
@@ -39,28 +19,27 @@ Pre-requisites
 - Android Build Tools v25.0.2
 - Android Support Repository
 
-Screenshots
--------------
-
-<img src="screenshots/screenshot1.png" height="400" alt="Screenshot"/> <img src="screenshots/screenshot2.png" height="400" alt="Screenshot"/> 
-
 Getting Started
 ---------------
 
-This sample uses the Gradle build system. To build this project, use the
-"gradlew build" command or use "Import Project" in Android Studio.
+After you clone the repository, open the project.  If you get any build errors, you 
+may need to follow the prompts in the errors to install the missing libraries.
 
-Support
--------
+Once the project builds, look through the code to become familiar with it.  In 
+particular, look at the menu xml file to see how that works.
 
-- Google+ Community: https://plus.google.com/communities/105153134372062985968
-- Stack Overflow: http://stackoverflow.com/questions/tagged/android
+You are going to add functionality to the three menu buttons.
 
-If you've found an error in this sample, please file an issue:
-https://github.com/googlesamples/android-ActionBarCompat-Basic
+- The first menu button should alternate starting and stopping the service included in the project.  
+- The second menu button should open a URL entered into the EditText on screen in the default web browser.
+- The third menu button should open a new Activity that you create.
 
-Patches are encouraged, and may be submitted by forking this project and
-submitting a pull request through GitHub. Please see CONTRIBUTING.md for more details.
+For all of these, feel free to add fields/methods as you see fit to accomplish the tasks.
+The first two tasks are relatively simple, while the third is much more open-ended and
+requires you to create more files.
+
+When you are finished with this activity, zip up your project and submit it to the assignment
+in Collab.
 
 License
 -------
