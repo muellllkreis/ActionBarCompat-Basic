@@ -45,7 +45,7 @@ by the third button that will:
 - Allow a user to set a username, first name, and last name;
 - When you return to the original Activity, display this information in a SnackBar.
 
-When you are finished with this activity, zip up your project and submit it to the assignment
+When you are finished with this activity, zip up your project and submit it along with an .apk to the assignment
 in Collab.
 
 License
