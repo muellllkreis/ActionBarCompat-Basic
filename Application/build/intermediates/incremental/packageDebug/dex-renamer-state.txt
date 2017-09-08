@@ -1,7 +1,4 @@
-#Thu Feb 02 12:28:36 EST 2017
-base.0=/Users/sherriff/Dropbox/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f7b977551110c173750e896311171c0dc7eacbee
-renamed.1=classes2.dex
+#Fri Sep 08 13:17:25 EDT 2017
+base.0=C\:\\Users\\rieti\\Desktop\\ActionBarCompat-Basic\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
-file.1=/Users/sherriff/Dropbox/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_edfc6979e444a76eb545affffdc59da57937fc95/classes.dex
-base.1=/Users/sherriff/Dropbox/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_edfc6979e444a76eb545affffdc59da57937fc95
-file.0=/Users/sherriff/Dropbox/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f7b977551110c173750e896311171c0dc7eacbee/classes.dex
+file.0=C\:\\Users\\rieti\\Desktop\\ActionBarCompat-Basic\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

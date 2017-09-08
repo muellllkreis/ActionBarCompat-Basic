@@ -38,7 +38,9 @@
         <service
             android:name=".TimeDateService"
             android:enabled="true"
-            android:exported="true"></service>
+            android:exported="true" />
+
+        <activity android:name=".SetCredentialsActivity"></activity>
     </application>
 
 </manifest>

@@ -2,175 +2,202 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="/Users/sherriff/Documents/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\rieti\Desktop\ActionBarCompat-Basic\Application\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
-        <dex dex="/Users/sherriff/Dropbox/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_c82dc13d15fbf69d406fb13ad35ff18178e4cde8/classes.dex" />
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\rieti\Desktop\ActionBarCompat-Basic\Application\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.2_cb08444e58f151ccef9e4bbd63a705d6557b91bd.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/sherriff/Dropbox/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f83b00041ecfba705603fec40363416c7de69719">
-        <dex dex="/Users/sherriff/Dropbox/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_04314f25d8e570db09af5457c62343d57fffde0e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/sherriff/Dropbox/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
-        <dex dex="/Users/sherriff/Dropbox/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.0.1_d0324a1c49190045c24495d2e93ff293d70762b1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/sherriff/Dropbox/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
-        <dex dex="/Users/sherriff/Dropbox/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_e84a6d5384521f0f04d6c6573de23e939c996168/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/sherriff/Dropbox/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
-        <dex dex="/Users/sherriff/Dropbox/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_41b0aecdc530d6746276fc672267daf946acc013/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/sherriff/Dropbox/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/sherriff/Dropbox/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_50bf5612f77a254f45a718f1e4301695eea93834/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/sherriff/Dropbox/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
-        <dex dex="/Users/sherriff/Dropbox/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_5da931c94f3250cd8a8545b2576a14f874df9dca/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/sherriff/Dropbox/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
-        <dex dex="/Users/sherriff/Dropbox/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_1c9ef143a548fc774b47c00e813c2d373deaa7c2/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/sherriff/Dropbox/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
-        <dex dex="/Users/sherriff/Dropbox/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_85ba4fee631103b9f0e0deaf9e182c071c90bb53/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/sherriff/Dropbox/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
-        <dex dex="/Users/sherriff/Dropbox/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_2e0b2899f2056903c312dace0d9bb0d6b989d90c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/sherriff/Dropbox/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
-        <dex dex="/Users/sherriff/Dropbox/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_62fe7abc068a3944ba66141fa44516a851ec618c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/sherriff/Dropbox/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
-        <dex dex="/Users/sherriff/Dropbox/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_c8f4bb047634870e50e9ef9c898a60b2ae5240c7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/sherriff/Dropbox/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="4700f436ede140fb804204f806c9cc3f08e386f4">
-        <dex dex="/Users/sherriff/Dropbox/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-gridlayout-v7-25.0.1_468aff490504f6a5afde1ed45a501da84c0204c1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/sherriff/Dropbox/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
-        <dex dex="/Users/sherriff/Dropbox/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_c5ccad3026998eac4b93bd108e8e0f32d45edb85/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/sherriff/Dropbox/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="adf231e3a434d279f3d7a929b45f0e7bbe62ffcb">
-        <dex dex="/Users/sherriff/Dropbox/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_edfc6979e444a76eb545affffdc59da57937fc95/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/sherriff/Dropbox/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d555d449fea2ff2a23827e07b47a23e2b005923b">
-        <dex dex="/Users/sherriff/Dropbox/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f7b977551110c173750e896311171c0dc7eacbee/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/sherriff/Dropbox/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\rieti\Desktop\ActionBarCompat-Basic\Application\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
-        <dex dex="/Users/sherriff/Dropbox/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_2cca16e8a454db580f472c075a3884868ce17df7/classes.dex" />
+        <dex dex="C:\Users\rieti\Desktop\ActionBarCompat-Basic\Application\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_0e4bf9ad68bed84488fa539567a662965a8da1f7.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/sherriff/Dropbox/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\rieti\Desktop\ActionBarCompat-Basic\Application\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
-        <dex dex="/Users/sherriff/Dropbox/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_d8943b50a6c945f2235635fdb050afe9de80c3ad/classes.dex" />
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="C:\Users\rieti\Desktop\ActionBarCompat-Basic\Application\build\intermediates\pre-dexed\debug\com.android.support-transition-25.0.1_a079000c4e2b07580e242a66807c7f0ceaf5eb8c.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/sherriff/Dropbox/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\rieti\Desktop\ActionBarCompat-Basic\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="C:\Users\rieti\Desktop\ActionBarCompat-Basic\Application\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.0.1_5876b15d1071c63dd6232be04849cafc34739c69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rieti\Desktop\ActionBarCompat-Basic\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="/Users/sherriff/Dropbox/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_813d0e2f9a9fdde3a6ea26f81aaea59145b4f3c4/classes.dex" />
+        <dex dex="C:\Users\rieti\Desktop\ActionBarCompat-Basic\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_41d2fbea94d0b089e745cea054b608f6887a4dfc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rieti\Desktop\ActionBarCompat-Basic\Application\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\rieti\Desktop\ActionBarCompat-Basic\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_0852d898f68fb078fda12b80dde7f7e4a0c1a58e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rieti\Desktop\ActionBarCompat-Basic\Application\build\intermediates\exploded-aar\com.android.support\design\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="C:\Users\rieti\Desktop\ActionBarCompat-Basic\Application\build\intermediates\pre-dexed\debug\com.android.support-design-25.0.1_99b3d393b1b547eb41f384f5966d40c09b6cc9bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rieti\Desktop\ActionBarCompat-Basic\Application\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\rieti\Desktop\ActionBarCompat-Basic\Application\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_53969fd1183b9a1d3c5a69bdb74f0d36df0ddd23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rieti\Desktop\ActionBarCompat-Basic\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\rieti\Desktop\ActionBarCompat-Basic\Application\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_c4f36110f03c5466ca999575ad63041ab94ff3f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rieti\Desktop\ActionBarCompat-Basic\Application\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\rieti\Desktop\ActionBarCompat-Basic\Application\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_57b49c5a5dfa658d8be00f3c8ff9ecb0497e136f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rieti\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\rieti\Desktop\ActionBarCompat-Basic\Application\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_6d6da4a8063ff78274c5ea8ce5c4bb61262473c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rieti\Desktop\ActionBarCompat-Basic\Application\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4700f436ede140fb804204f806c9cc3f08e386f4">
+        <dex dex="C:\Users\rieti\Desktop\ActionBarCompat-Basic\Application\build\intermediates\pre-dexed\debug\com.android.support-gridlayout-v7-25.0.1_49e4c2d677f31cd4bb704ed05fc9f7dd44ee8577.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rieti\Desktop\ActionBarCompat-Basic\Application\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\rieti\Desktop\ActionBarCompat-Basic\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_da1aa14ee0abac140009086dbdb20adbc6a59fba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rieti\Desktop\ActionBarCompat-Basic\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\rieti\Desktop\ActionBarCompat-Basic\Application\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_14ed40029d67e544d7ce11cdf0f6d526191b3c10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rieti\Desktop\ActionBarCompat-Basic\Application\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\rieti\Desktop\ActionBarCompat-Basic\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_4675d206ab5490a460a8d86f84c286c32d30390d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rieti\Desktop\ActionBarCompat-Basic\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\rieti\Desktop\ActionBarCompat-Basic\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_74e192923e282ce835fce6db3c1384c6f04d1564.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rieti\Desktop\ActionBarCompat-Basic\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\rieti\Desktop\ActionBarCompat-Basic\Application\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_1c437ee2093472407d22af8539b56e7c4aae4d0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rieti\Desktop\ActionBarCompat-Basic\Application\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\rieti\Desktop\ActionBarCompat-Basic\Application\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_a6911c60f3f6b975d031f442ae8303839fb85319.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rieti\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\rieti\Desktop\ActionBarCompat-Basic\Application\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_221a8ed64d20a261fa6512d83c2f2384b7149fea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rieti\Desktop\ActionBarCompat-Basic\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\rieti\Desktop\ActionBarCompat-Basic\Application\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_bac655943a8bfe9c56862272e5cb2d7c055607ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rieti\Desktop\ActionBarCompat-Basic\Application\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="C:\Users\rieti\Desktop\ActionBarCompat-Basic\Application\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.1_cd9b40de165b42a74d3ce09a18c4f15fc61b2396.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rieti\Desktop\ActionBarCompat-Basic\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\rieti\Desktop\ActionBarCompat-Basic\Application\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_895f4470b3037711c50505a86682fdc3c646d792.jar" />
     </item>
 
 </items>

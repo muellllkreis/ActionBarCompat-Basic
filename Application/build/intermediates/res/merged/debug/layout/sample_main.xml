@@ -19,6 +19,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     xmlns:android="http://schemas.android.com/apk/res/android">
+
     <TextView xmlns:android="http://schemas.android.com/apk/res/android"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -27,10 +28,11 @@
         android:gravity="center" />
 
     <EditText
+        android:id="@+id/url"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:inputType="textUri"
         android:ems="10"
-        android:id="@+id/url" />
+        android:inputType="textUri"
+        android:text="http://" />
 
 </LinearLayout>

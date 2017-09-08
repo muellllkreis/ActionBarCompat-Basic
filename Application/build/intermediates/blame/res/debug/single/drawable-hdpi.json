@@ -1,22 +1,42 @@
 [
     {
-        "merged": "/Users/sherriff/Dropbox/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_refresh.png",
-        "source": "/Users/sherriff/Dropbox/AndroidStudioProjects/ActionBarCompat-Basic/Application/src/main/res/drawable-hdpi/ic_action_refresh.png"
+        "merged": "C:\\Users\\rieti\\Desktop\\ActionBarCompat-Basic\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\rieti\\Desktop\\ActionBarCompat-Basic\\Application\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "/Users/sherriff/Dropbox/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_settings.png",
-        "source": "/Users/sherriff/Dropbox/AndroidStudioProjects/ActionBarCompat-Basic/Application/src/main/res/drawable-hdpi/ic_action_settings.png"
+        "merged": "C:\\Users\\sherriff\\Dropbox\\AndroidStudioProjects\\ActionBarCompat-Basic\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_refresh.png",
+        "source": "C:\\Users\\sherriff\\Dropbox\\AndroidStudioProjects\\ActionBarCompat-Basic\\Application\\src\\main\\res\\drawable-hdpi\\ic_action_refresh.png"
     },
     {
-        "merged": "/Users/sherriff/Dropbox/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_location.png",
-        "source": "/Users/sherriff/Dropbox/AndroidStudioProjects/ActionBarCompat-Basic/Application/src/main/res/drawable-hdpi/ic_action_location.png"
+        "merged": "C:\\Users\\rieti\\Desktop\\ActionBarCompat-Basic\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_refresh.png",
+        "source": "C:\\Users\\rieti\\Desktop\\ActionBarCompat-Basic\\Application\\src\\main\\res\\drawable-hdpi\\ic_action_refresh.png"
     },
     {
-        "merged": "/Users/sherriff/Dropbox/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/res/merged/debug/drawable-hdpi/tile.9.png",
-        "source": "/Users/sherriff/Dropbox/AndroidStudioProjects/ActionBarCompat-Basic/Application/src/main/res/drawable-hdpi/tile.9.png"
+        "merged": "C:\\Users\\sherriff\\Dropbox\\AndroidStudioProjects\\ActionBarCompat-Basic\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_location.png",
+        "source": "C:\\Users\\sherriff\\Dropbox\\AndroidStudioProjects\\ActionBarCompat-Basic\\Application\\src\\main\\res\\drawable-hdpi\\ic_action_location.png"
     },
     {
-        "merged": "/Users/sherriff/Dropbox/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
-        "source": "/Users/sherriff/Dropbox/AndroidStudioProjects/ActionBarCompat-Basic/Application/src/main/res/drawable-hdpi/ic_launcher.png"
+        "merged": "C:\\Users\\rieti\\Desktop\\ActionBarCompat-Basic\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_settings.png",
+        "source": "C:\\Users\\rieti\\Desktop\\ActionBarCompat-Basic\\Application\\src\\main\\res\\drawable-hdpi\\ic_action_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\sherriff\\Dropbox\\AndroidStudioProjects\\ActionBarCompat-Basic\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\sherriff\\Dropbox\\AndroidStudioProjects\\ActionBarCompat-Basic\\Application\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\rieti\\Desktop\\ActionBarCompat-Basic\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tile.9.png",
+        "source": "C:\\Users\\rieti\\Desktop\\ActionBarCompat-Basic\\Application\\src\\main\\res\\drawable-hdpi\\tile.9.png"
+    },
+    {
+        "merged": "C:\\Users\\rieti\\Desktop\\ActionBarCompat-Basic\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_location.png",
+        "source": "C:\\Users\\rieti\\Desktop\\ActionBarCompat-Basic\\Application\\src\\main\\res\\drawable-hdpi\\ic_action_location.png"
+    },
+    {
+        "merged": "C:\\Users\\sherriff\\Dropbox\\AndroidStudioProjects\\ActionBarCompat-Basic\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_settings.png",
+        "source": "C:\\Users\\sherriff\\Dropbox\\AndroidStudioProjects\\ActionBarCompat-Basic\\Application\\src\\main\\res\\drawable-hdpi\\ic_action_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\sherriff\\Dropbox\\AndroidStudioProjects\\ActionBarCompat-Basic\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tile.9.png",
+        "source": "C:\\Users\\sherriff\\Dropbox\\AndroidStudioProjects\\ActionBarCompat-Basic\\Application\\src\\main\\res\\drawable-hdpi\\tile.9.png"
     }
 ]
